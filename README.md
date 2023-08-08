@@ -1,5 +1,7 @@
 # Easy image detector/trainer for embedded system with OpenCV
 
+![](example.jpg)
+
 이 프로젝트는 임베디드 시스템에서 물체 검출을 쉽게 할 수 있도록 만든 툴킷입니다.
 Python3.8 이상, OpenCV python 4.8 버전에서 동작합니다.
 

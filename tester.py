@@ -16,7 +16,7 @@ STRIDE = 80
 # Write video
 fourcc = cv2.VideoWriter_fourcc(*"XVID")
 out = cv2.VideoWriter(
-    filename="output-x.mp4", fourcc=fourcc, fps=25, frameSize=(WIDTH, HEIGHT)
+    filename="output.mp4", fourcc=fourcc, fps=25, frameSize=(WIDTH, HEIGHT)
 )
 
 while True:
